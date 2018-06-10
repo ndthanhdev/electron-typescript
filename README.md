@@ -1,1 +1,1 @@
-electron-ts
+electron-typescript
